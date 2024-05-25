@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714355487 source:c:\users\otavio\documents\repositorios\aeds\exercicio arquivo sequencial\ex-arquivo-sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1716660456 source:c:\users\otavio\documents\repositorios\aeds\exercicio-arquivo-sequencial\ex-arq-sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

@@ -1,0 +1,15 @@
+O valor 1597 está no arquivo na posição 17.
+O valor 345 não está no arquivo, valores mais próximos: 233 e 377.
+O valor 75025 está no arquivo na posição 25.
+O valor 45634 não está no arquivo, valores mais próximos: 28657 e 46368.
+O valor 46368 está no arquivo na posição 24.
+O valor 2356673 não está no arquivo, valores mais próximos: 2178309 e 3524578.
+O valor 5702887 está no arquivo na posição 34.
+O valor 102334155 está no arquivo na posição 40.
+O valor 24563673856 não está no arquivo, valores mais próximos: 20365011074 e 32951280099.
+O valor 13 está no arquivo na posição 7.
+O valor 8 está no arquivo na posição 6.
+O valor 12 não está no arquivo, valores mais próximos: 8 e 13.
+O valor 23 não está no arquivo, valores mais próximos: 21 e 34.
+O valor 21 está no arquivo na posição 8.
+O valor 6 não está no arquivo, valores mais próximos: 5 e 8.
